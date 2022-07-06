@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Core test", "MVC Core test\MVC Core test.csproj", "{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45065D2-BBF0-4D77-9A8C-2A6C820CC5B7}.Release|ARM32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3492B9A-BEC7-4474-B943-54239DD25FAB}
+	EndGlobalSection
+EndGlobal
